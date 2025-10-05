@@ -14,7 +14,7 @@ A simple command-line tool that searches for text patterns in files, inspired by
 Make sure you have [Rust](https://www.rust-lang.org/tools/install) installed, then clone and build the project:
 
 ```bash
-git clone <repository-url>
+git clone sudosayonara/minigrep
 cd minigrep
 cargo build --release
 ```
